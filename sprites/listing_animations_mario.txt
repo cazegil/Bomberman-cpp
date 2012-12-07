@@ -1,0 +1,5 @@
+100:sprites/animations/explosion/explosion_10.bmp
+100:sprites/animations/mort/mort_9.bmp
+100:sprites/mario/animations/bonusspawn/bonusspawn_12.bmp
+100:sprites/mario/animations/destruction/destruction_4.bmp
+100:sprites/mario/animations/bombe/bombe_17.bmp

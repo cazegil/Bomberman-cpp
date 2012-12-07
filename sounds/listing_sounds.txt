@@ -1,0 +1,6 @@
+sounds\easteregg.wav
+sounds\error.wav
+sounds\explosion.wav
+sounds\win.wav
+
+# exemple

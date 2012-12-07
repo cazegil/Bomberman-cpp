@@ -1,0 +1,7 @@
+100:sprites/animations/explosiondg/explosiondg_10.bmp
+100:sprites/animations/explosionhb/explosionhb_10.bmp
+100:sprites/animations/mort/mort_9.bmp
+100:sprites/animations/spawn/spawn_5.bmp
+100:sprites/defaut/animations/bonusspawn/bonusspawn_12.bmp
+142:sprites/defaut/animations/destruction/destruction_7.bmp
+96:sprites/defaut/animations/bombe/bombe_18.bmp
